@@ -1,6 +1,6 @@
 # Проект : game-cubes
 
-Cтек: HTML / CSS / Git / Figma
+Cтек: HTML / CSS / JavaScript / Git
 
 # **Ссылка на проект**
 https://iva3nik.github.io/game-cubes/index.html
